@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="12 Corazones | 24/7" tvg-logo="https://th.bing.com/th/id/R.907661114a445c9a3a503a8b58739c2f?rik=JNVLxKOi2t06OA&pid=ImgRaw&r=0" group-title="24/7",24/7
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/339651.ts
+#EXTINF:-1 tvg-name="One Piece pelicula" tvg-logo="https://th.bing.com/th/id/R.05d55b146b81128bf9f6c230e8556faa?rik=gT%2bkPglWiXtnYA&riu=http%3a%2f%2fmedia.kellermandesign.com%2f2014%2f09%2fDie-Welle-2008-Dennis-Gansel-onesheet.jpg&ehk=8h6bvo6cUKcnfwqAdMKAxGqWOBIZ0TdokYdACx%2bwK3A%3d&risl=&pid=ImgRaw&r=0" group-title="PELICULA",One Piece S01E50
+ftp://109.167.131.106/movie2/HDRips/movie2/HDRips/Die.Welle(2008).BDRip.720p.mkv
