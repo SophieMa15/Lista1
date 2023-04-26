@@ -87,5 +87,3 @@ http://190.5.200.52:8000/play/a00a/index.m3u8
 http://190.5.200.52:8000/play/a01r/index.m3u8
 #EXTINF:-1,city
 http://190.5.200.52:8000/play/a01q/index.m3u8
-#EXTINF:-1,la kalle
-http://190.5.200.52:8000/play/a024/index.m3u8
