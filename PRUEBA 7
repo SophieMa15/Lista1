@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="" tvg-name="12 Corazones | 24/7" tvg-logo="https://th.bing.com/th/id/R.907661114a445c9a3a503a8b58739c2f?rik=JNVLxKOi2t06OA&pid=ImgRaw&r=0" group-title="24/7",24/7
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/339651.ts
-#EXTINF:-1 tvg-name="One Piece S01E50" tvg-logo="http://panel.tured.live:8080/images/e2a9df00ed517d5291b86c96e9a7c98e.jpg" group-title="SERIE-ANIME",One Piece S01E50
-https://www.mmnt.net/db/0/2/109.167.131.106/movie2/HDRips/Die.Welle(2008).BDRip.720p.mkv
