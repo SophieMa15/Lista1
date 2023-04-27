@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="VEN | CANAL 123" tvg-logo="https://th.bing.com/th/id/R.37e5f37579d8311c3929e7120d06ec73?rik=EpbzJj%2f%2b6dVbag&pid=ImgRaw&r=0" group-title="VENEZUELA",VEN | CANAL 123
+http://200.31.4.14:8000/play/001/index.m3u8
