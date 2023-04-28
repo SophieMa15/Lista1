@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="VEN | CANAL 123" tvg-logo="https://th.bing.com/th/id/R.37e5f37579d8311c3929e7120d06ec73?rik=EpbzJj%2f%2b6dVbag&pid=ImgRaw&r=0" group-title="VENEZUELA",VEN | CANAL 123
+http://200.31.4.14:8000/play/001/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN | Alba tv" tvg-logo="https://th.bing.com/th/id/R.ae2ce410213b38556e1b5290ea8e1f21?rik=oqkFqdr5iGnb1A&pid=ImgRaw&r=0" group-title="VENEZUELA",VEN | Alba tv
+http://200.31.4.14:8000/play/a072/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEL | AMC HD" tvg-logo="https://th.bing.com/th/id/R.c05d481c30f05d6d795c6380dee19c12?rik=zSgfkBEfn7GYhg&riu=http%3a%2f%2fdigitalmediawire.com%2fwp-content%2fuploads%2f2017%2f06%2famc.jpg&ehk=FE0UfLV4wH%2bJ4nxCpqVQ0%2bK%2b8mxwAMhnsIyqqw4yLfg%3d&risl=&pid=ImgRaw&r=0" group-title="PELICULAS",PEL | AMC
+http://200.31.4.14:8000/play/a0cy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN | ANTV" tvg-logo="https://th.bing.com/th/id/R.0efa4a8fced441a5cd0b6eb6e8ba40cb?rik=Dz0nwpXiW%2bv7vg&riu=http%3a%2f%2faussie1.productions%2fwp-content%2fuploads%2f2019%2f05%2f2.jpg&ehk=%2b%2fJkk6xeijzQx%2bEu6%2fKzMFF0ukrYJMhmn8Ans7zRTP0%3d&risl=&pid=ImgRaw&r=0" group-title="VENEZUELA",VEN | ANTV
+http://200.31.4.14:8000/play/a06z/index.m3u8
